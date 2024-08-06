@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canara Snapshot Nexus Repository </name>
-	      <url>http://13.232.117.60/:8081/repository/Canara-snapshot/</url>
+	      <url>http://13.232.117.60:8081/repository/Canara-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
