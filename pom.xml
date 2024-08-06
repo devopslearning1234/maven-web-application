@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.232.36.156:9000/</sonar.host.url>
-		<sonar.login>squ_a593458bdc4e7cd896bb78c4369eaf30297cbb54</sonar.login>
+		<sonar.host.url>http://13.233.95.243:9000/</sonar.host.url>
+		<sonar.login>squ_cd7e4f0cec28b04d6d684854c370df7f83386020</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>canara Releases Nexus Repository</name>
-	      <url>http://3.110.122.13:8081/repository/Canara-release/</url>
+	      <url>http://13.232.117.60:8081/repository/Canara-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>canara Snapshot Nexus Repository </name>
-	      <url>http://3.110.122.13:8081/repository/Canara-snapshot/</url>
+	      <url>http://13.232.117.60/:8081/repository/Canara-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
